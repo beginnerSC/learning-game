@@ -3,6 +3,6 @@
 ![2025 Yearly Heatmap](yearly_heatmaps/2025.png?ts=10022025)
 
 
-## pre-commit cache
+## pre-commit Cache 
 
 * `%USERPROFILE%.cache\pre-commit\repold82yskn\daily_challenge`
