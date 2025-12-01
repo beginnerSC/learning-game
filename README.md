@@ -6,4 +6,4 @@
 
 ### Daddy's C++ 
 
-![cpp](https://github.com/beginnerSC/dcc/blob/master/yearly_heatmaps/2025.png?ts=10022025)
+![cpp](https://github.com/beginnerSC/dcc/blob/master/yearly_heatmaps/2025.png?ts=10022025) 
